@@ -89,7 +89,7 @@ footer {
 #back {
     padding: 10;
     background-color: #09060c;
-    border: 1px solid #802731;
+    /* border: 1px solid #802731; */
     font-size: 16px;
     transition: all 0.4s ease;
     color:#fff;
@@ -107,13 +107,10 @@ footer {
 }
 
 #save{
+    padding: 4px;
     margin-left: 46%;
+    border: 1px solid #802731;
 }
-
-#back {
-    margin-left: 45%;
-}
-
 
 #create label {
     display: block;
@@ -192,7 +189,6 @@ a:hover {
     color: #802731;
 }
 
-  
 /* Box di avviso errori */
 .alert {
     background-color: #b22222;
