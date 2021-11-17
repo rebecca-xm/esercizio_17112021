@@ -22,7 +22,7 @@ const add = () => {
                 </div>
                 <div class="row">
                     <label for "description">Descrizione:</label>
-                        <textarea id="description" name="description"/></textarea>
+                    <textarea id="description" name="description"/></textarea>
                 </div>
                 <button id="save">Salva scheda</button>
             </form>

@@ -63,9 +63,15 @@ main {
   
 hr {
     border: 0;
-    background-color: #ccc;
+    background-color: #802731;
     height: 1px;
     margin: 20px 0;
+}
+
+#resize {
+    max-width: 400px;
+    padding: auto;
+    margin: auto;
 }
 
 footer {

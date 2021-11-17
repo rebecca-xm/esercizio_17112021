@@ -11,7 +11,7 @@ const view = (id = 0) => {                                      // se non gli pa
                 `<article>
                 <h2>${movie.title}</2>
                 <p>${movie.year}</p>
-                <img src="${movie.poster}" />
+                <img id="resize" src="${movie.poster}" />
                 <p>${movie.description}</p>
                 <hr />
                 <a href="#" id="back">Torna alla home</a>
