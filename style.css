@@ -69,6 +69,7 @@ hr {
 }
 
 #resize {
+    max-height: 400px;
     max-width: 400px;
     padding: auto;
     margin: auto;
