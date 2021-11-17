@@ -205,15 +205,15 @@ a:hover {
 }
   
 ::-webkit-scrollbar-track {
-    background: #802731; 
+    background: #09060c; 
 }
    
 ::-webkit-scrollbar-thumb {
-    background: #09060c; 
+    background: #802731; 
 }
   
 ::-webkit-scrollbar-thumb:hover {
-    background: #09060c; 
+    background: #802731; 
 }
   
 /* Placeholder per caricamento */
