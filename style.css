@@ -14,7 +14,7 @@ img {
     height: auto;
 }
 
-/* menu */
+/* MENU */
 .navigation ul {
     border-top: 2px solid #802731;
     border-bottom: 2px solid #802731;
@@ -22,16 +22,16 @@ img {
     list-style: none;
     margin: 0;
     padding: 5px 0;
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Exo', sans-serif;
     font-size: 20px;
     text-align: center;
- }
- .navigation li {
+}
+.navigation li {
     flex: 20;    
- }
- .navigation .user {
+}
+.navigation .user {
     flex: 0;
- }
+}
 
 /* TESTO IMMAGINE */
 .centered {
