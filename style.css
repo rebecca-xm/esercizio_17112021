@@ -167,6 +167,10 @@ footer {
 ul {
     padding: 30px;
     list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* divido gli elementi in una griglia da tre colonne */
+    column-gap: 10px;
+    row-gap: 5px;
 }
   
 /* ul li span {
